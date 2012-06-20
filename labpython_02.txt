@@ -1,0 +1,31 @@
+     Part I:
+ 1. 
+a. x is 2
+
+b. x is 3
+
+c. x is 1
+
+d. z is 7
+
+
+2.
+a. y = 1
+
+b. y = 1
+
+3.
+
+2
+4
+6
+8
+
+4.
+
+
+Traceback (most recent call last):
+  File "<pyshell#6>", line 1, in <module>
+    while i > 10:
+NameError: name 'i' is not defined
+
