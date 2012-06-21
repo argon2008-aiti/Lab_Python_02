@@ -20,12 +20,12 @@ for digit in Tel_Number:
 
 print
 
-print 'simple encrypted number is: '
+print 'simple encryption method produced: '
 
 print encrypted_Tel                             # print the encrypted number  
 
 print
 
-print 'advanced encrypted number is: '
+print 'advanced encryption method produced: '
 
 print advanced_encrypted_Tel                    #print the advanced encrypted number
