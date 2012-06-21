@@ -10,7 +10,7 @@ for digit in Tel_Number:
     
     last_Digit = Tel_Number%10      #get the last_Digit of Tel_Number
     
-    advanced_last_Digit = (last_Digit + 7)%10
+    advanced_last_Digit = (last_Digit + 7)%10 #advanced encryption
     
     encrypted_Tel = encrypted_Tel + str(last_Digit) #add the last digit to the encrypted_Tel buffer
     
